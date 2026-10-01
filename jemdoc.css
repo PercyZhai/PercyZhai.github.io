@@ -368,3 +368,9 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+/* Limit the content column width so lines stay readable on wide screens. */
+#layout-content > * {
+	max-width: 48rem;
+	box-sizing: border-box;
+}
