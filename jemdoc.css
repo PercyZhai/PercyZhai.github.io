@@ -374,3 +374,8 @@ table.imgtable, table.imgtable td {
 	max-width: 48rem;
 	box-sizing: border-box;
 }
+
+/* Top-align text beside images inside sections (e.g., Outside Research). */
+#layout-content h2 + table.imgtable td {
+	vertical-align: top;
+}
