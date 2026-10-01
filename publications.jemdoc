@@ -4,38 +4,46 @@
 == Published Papers
 - Simultaneous Inference for Covariance and Precision Matrices of Long-Range Dependent Time Series \n
   *Percy S. Zhai*, Mladen Kolar, and Wei Biao Wu (2026) \n
-  /IEEE Transactions on Information Theory/, 72(6): 4246--4296
+  /IEEE Transactions on Information Theory/, 72(6): 4246--4296 \n
+  [https://doi.org/10.1109/TIT.2026.3685246 Paper] | [https://arxiv.org/abs/2604.16219 arXiv]
 
 - High-dimensional Gaussian Graphical Model Testing for Long-Memory Time Series \n
   *Percy S. Zhai*, Ping-Shou Zhong, and Wei Biao Wu (2026) \n
-  Accepted to /the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)/
+  Accepted to /the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)/ \n
+  [https://arxiv.org/abs/2609.30565 arXiv]
 
 - Conditional Flow Matching for Bayesian Posterior Inference \n
   *Percy S. Zhai*\*, Sowon Jeong\*, and Veronika Ročková (2026) \n
-  /The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)/, PMLR 300: 2044--2052
+  /The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)/, PMLR 300: 2044--2052 \n
+  [https://proceedings.mlr.press/v300/zhai26a.html Paper] | [https://arxiv.org/abs/2510.09534 arXiv] | [https://github.com/sowonjeong/flow-posterior Code]
 
 - Deep Generative Quantile Bayes \n
   Jungeum Kim, *Percy S. Zhai*, and Veronika Ročková (2025) \n
-  /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, PMLR 258: 4141--4149
+  /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, PMLR 258: 4141--4149 \n
+  [https://proceedings.mlr.press/v258/kim25d.html Paper] | [https://arxiv.org/abs/2410.08378 arXiv] | [https://github.com/JungeumKim/generative_quantile Code]
 
 - High-dimensional Functional Graphical Model Structure Learning via Neighborhood Selection Approach \n
   Boxin Zhao, *Percy S. Zhai*, Y. Samuel Wang, and Mladen Kolar (2024) \n
-  /Electronic Journal of Statistics/, 18(1): 1042--1129
+  /Electronic Journal of Statistics/, 18(1): 1042--1129 \n
+  [https://doi.org/10.1214/24-EJS2219 Paper] | [https://arxiv.org/abs/2105.02487 arXiv] | [https://github.com/PercyZhai/FGM_Neighborhood Code]
 
 \* Equal contribution.
 
 == Working Papers and Preprints
 - Horseshoe Predictive Inference \n
   *Percy S. Zhai* and Veronika Ročková (2026) \n
-  Under review at /Journal of the American Statistical Association, Theory and Methods/
+  Under review at /Journal of the American Statistical Association, Theory and Methods/ \n
+  [https://arxiv.org/abs/2604.16661 arXiv]
 
 - Valid and Efficient Split Conformal Regression for Time Series \n
   *Percy S. Zhai*, Maggie Cheng, and Wei Biao Wu (2026) \n
-  Under review at /International Conference on Learning Representations (ICLR)/
+  Under review at /International Conference on Learning Representations (ICLR)/ \n
+  [https://arxiv.org/abs/2609.33866 arXiv]
 
 - Conformal Coverage of Time Series: Validity and Inference \n
   *Percy S. Zhai*, Maggie Cheng, and Wei Biao Wu (2026) \n
-  Under review at /International Conference on Learning Representations (ICLR)/
+  Under review at /International Conference on Learning Representations (ICLR)/ \n
+  [https://arxiv.org/abs/2609.33868 arXiv]
 
 - Testing Demographic Parity Gap on Precision Graphs for Sub-Exponential Time Series \n
   *Percy S. Zhai*, Mladen Kolar, and Wei Biao Wu (2026) \n
