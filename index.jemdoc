@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}
+= Percy Shengjun Zhai
+
+~~~
+{}{img_left}{photo.jpg}{photo}{160px}{}
+I am a Ph.D. candidate in Econometrics and Statistics at the
+[https://www.chicagobooth.edu/ University of Chicago Booth School of Business].
+I received an M.S. in Statistics from the University of Chicago and a B.S. in Physics
+from the Special Class for the Gifted Young at the University of Science and Technology of China.
+~~~
+
+== Research Interests
+- *Time series*: covariance and precision matrix inference under long-range dependence, conformal prediction
+- *Bayesian inference*: horseshoe priors, predictive inference
+- *Graphical models*: high-dimensional Gaussian and functional graphical models
+- *Simulation-based inference*: conditional flow matching, generative posterior samplers
+
+== Contact
+- Email: percysjzhai at uchicago dot edu
+- Address: The University of Chicago Booth School of Business, 5807 S Woodlawn Avenue, Chicago, IL 60637

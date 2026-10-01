@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Published Papers
+- Simultaneous Inference for Covariance and Precision Matrices of Long-Range Dependent Time Series \n
+  *Percy S. Zhai*, Mladen Kolar, and Wei Biao Wu (2026) \n
+  /IEEE Transactions on Information Theory/, 72(6): 4246--4296
+
+- High-dimensional Gaussian Graphical Model Testing for Long-Memory Time Series \n
+  *Percy S. Zhai*, Ping-Shou Zhong, and Wei Biao Wu (2026) \n
+  Accepted to /the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)/
+
+- Conditional Flow Matching for Bayesian Posterior Inference \n
+  *Percy S. Zhai*\*, Sowon Jeong\*, and Veronika Ročková (2026) \n
+  /The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)/, PMLR 300: 2044--2052
+
+- Deep Generative Quantile Bayes \n
+  Jungeum Kim, *Percy S. Zhai*, and Veronika Ročková (2025) \n
+  /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, PMLR 258: 4141--4149
+
+- High-dimensional Functional Graphical Model Structure Learning via Neighborhood Selection Approach \n
+  Boxin Zhao, *Percy S. Zhai*, Y. Samuel Wang, and Mladen Kolar (2024) \n
+  /Electronic Journal of Statistics/, 18(1): 1042--1129
+
+\* Equal contribution.
+
+== Working Papers and Preprints
+- Horseshoe Predictive Inference \n
+  *Percy S. Zhai* and Veronika Ročková (2026) \n
+  Under review at /Journal of the American Statistical Association, Theory and Methods/
+
+- Valid and Efficient Split Conformal Regression for Time Series \n
+  *Percy S. Zhai*, Maggie Cheng, and Wei Biao Wu (2026) \n
+  Under review at /International Conference on Learning Representations (ICLR)/
+
+- Conformal Coverage of Time Series: Validity and Inference \n
+  *Percy S. Zhai*, Maggie Cheng, and Wei Biao Wu (2026) \n
+  Under review at /International Conference on Learning Representations (ICLR)/
+
+- Testing Demographic Parity Gap on Precision Graphs for Sub-Exponential Time Series \n
+  *Percy S. Zhai*, Mladen Kolar, and Wei Biao Wu (2026) \n
+  Under review at /International Conference on Artificial Intelligence and Statistics (AISTATS)/
+
+- Two-way Guidance: Simultaneous Learning of Summary Statistics for Generative Bayes \n
+  *Percy S. Zhai*, Max Pachman, Peverel Shipley, and Jungeum Kim (2026) \n
+  Under review at /International Conference on Artificial Intelligence and Statistics (AISTATS)/
+
+- Possibilistic Radial Transport for Approximate IM Inference with Hypothesis Comparison and Selection \n
+  Jungeum Kim and *Percy S. Zhai* (2026)
+
+- Effects of Dropout Regularization on Memorization in Diffusion Models \n
+  *Percy S. Zhai*, Molei Tao, and Jiaqi Li (2026)
