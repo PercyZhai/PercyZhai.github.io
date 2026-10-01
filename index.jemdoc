@@ -5,15 +5,41 @@
 {}{img_left}{photo.jpg}{photo}{160px}{}
 I am a Ph.D. candidate in Econometrics and Statistics at the
 [https://www.chicagobooth.edu/ University of Chicago Booth School of Business].
+# To restore the supervisor sentence, replace the line above with the four lines below and uncomment them.
+# [https://www.chicagobooth.edu/ University of Chicago Booth School of Business],
+# supervised by [https://www.chicagobooth.edu/faculty/directory/r/veronika-rockova Veronika Ročková],
+# [https://stat.uchicago.edu/people/profile/wei-biao-wu/ Wei Biao Wu], and
+# [https://www.marshall.usc.edu/personnel/mladen-kolar Mladen Kolar].
 I received an M.S. in Statistics from the University of Chicago and a B.S. in Physics
 from the Special Class for the Gifted Young at the University of Science and Technology of China.
+
+*I am on the 2026--2027 job market.*
 ~~~
 
 == Research Interests
-- *Time series*: covariance and precision matrix inference under long-range dependence, conformal prediction
-- *Bayesian inference*: horseshoe priors, predictive inference
-- *Graphical models*: high-dimensional Gaussian and functional graphical models
-- *Simulation-based inference*: conditional flow matching, generative posterior samplers
+- *Time series*: long-range dependence, simultaneous inference for covariance and precision matrices
+- *Bayesian inference*: Horseshoe priors, minimax predictive inference
+- *Graphical models*: high-dimensional Gaussian graphical model testing, functional graphical models
+- *Simulation-based inference*: generative amortized posterior samplers, conditional flow matching, summary statistics
+
+== Academic Service
+- Reviewer for /The Annals of Statistics/ (3 papers)
+- Reviewer for /Journal of the American Statistical Association, Theory and Methods/ (1 paper)
+- Reviewer for /Journal of the Royal Statistical Society, Series B/ (1 paper)
+- Reviewer for major AI conferences (NeurIPS, ICML, ICLR, AISTATS, UAI)
+
+== Teaching
+- *Statistics (Executive MBA, London and Hong Kong), 2023, TA* \n
+  *Outstanding Teaching Assistant Award* (May 2024), received from two Chicago Booth Executive MBA cohorts, AXP-23 (Hong Kong) and EXP-29 (London).
+  Each graduating Executive MBA cohort votes to select a single Outstanding Teaching Assistant.
+- Contemporary Bayesian Inference (Ph.D.), 2026, TA
+- Business Statistics (MBA), 2022--2026, TA
+- Bayes, AI, and Deep Learning (MBA), 2022--2024 and 2026, TA
+- Data Intelligence (MBA), 2025, TA
+- Big Data (MBA), 2025, TA
+- Statistical Insight into Entrepreneurial Quantitative Consulting (MBA), 2023--2024, TA
+- Statistical Insight into Marketing, Consulting, and Entrepreneurship (MBA), 2021--2022, TA
+- Machine Learning (MBA), 2021, TA
 
 == Contact
 - Email: percysjzhai at uchicago dot edu
