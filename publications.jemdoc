@@ -32,7 +32,6 @@
 == Working Papers and Preprints
 - Horseshoe Predictive Inference \n
   *Percy S. Zhai* and Veronika Ročková (2026) \n
-  Under review at /Journal of the American Statistical Association, Theory and Methods/ \n
   [https://arxiv.org/abs/2604.16661 arXiv]
 
 - Valid and Efficient Split Conformal Regression for Time Series \n
@@ -45,6 +44,10 @@
   Submitted \n
   [https://arxiv.org/abs/2609.33868 arXiv]
 
+- Possibilistic Radial Transport for Approximate IM Inference \n
+  Jungeum Kim and *Percy S. Zhai* (2026) \n
+  [https://arxiv.org/abs/2610.09956 arXiv]
+
 - Testing Demographic Parity Gap on Precision Graphs for Sub-Exponential Time Series \n
   *Percy S. Zhai*, Mladen Kolar, and Wei Biao Wu (2026) \n
   Submitted
@@ -52,9 +55,3 @@
 - Two-way Guidance: Simultaneous Learning of Summary Statistics for Generative Bayes \n
   *Percy S. Zhai*, Max Pachman, Peverel Shipley, and Jungeum Kim (2026) \n
   Submitted
-
-- Possibilistic Radial Transport for Approximate IM Inference with Hypothesis Comparison and Selection \n
-  Jungeum Kim and *Percy S. Zhai* (2026)
-
-- Effects of Dropout Regularization on Memorization in Diffusion Models \n
-  *Percy S. Zhai*, Molei Tao, and Jiaqi Li (2026)
