@@ -5,12 +5,12 @@
 - Simultaneous Inference for Covariance and Precision Matrices of Long-Range Dependent Time Series \n
   *Percy S. Zhai*, Mladen Kolar, and Wei Biao Wu (2026) \n
   /IEEE Transactions on Information Theory/, 72(6): 4246--4296 \n
-  [https://doi.org/10.1109/TIT.2026.3685246 Paper] | [https://arxiv.org/abs/2604.16219 arXiv]
+  [https://doi.org/10.1109/TIT.2026.3685246 Paper] | [https://arxiv.org/abs/2604.16219 arXiv] | [https://github.com/PercyZhai/GA-Experiments Code]
 
 - High-dimensional Gaussian Graphical Model Testing for Long-Memory Time Series \n
   *Percy S. Zhai*, Ping-Shou Zhong, and Wei Biao Wu (2026) \n
   Accepted to /the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)/ \n
-  [https://arxiv.org/abs/2609.30565 arXiv]
+  [https://arxiv.org/abs/2609.30565 arXiv] | [https://github.com/PercyZhai/time-series-GGM-test Code]
 
 - Conditional Flow Matching for Bayesian Posterior Inference \n
   *Percy S. Zhai*\*, Sowon Jeong\*, and Veronika Ročková (2026) \n
